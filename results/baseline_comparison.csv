@@ -1,0 +1,16 @@
+Message ID,Field,GPT-4o,Rule-Based,Match
+M01,issue_category,ENERGY_WASTE,ENERGY_WASTE,True
+M01,urgency,MEDIUM,MEDIUM,True
+M01,sentiment,NEUTRAL,NEUTRAL,True
+M01,followup_required,Y,Y,True
+M01,recommended_team,Facilities / Energy Management,Facilities / Energy Management,True
+M02,issue_category,ACCESSIBILITY,ACCESSIBILITY,True
+M02,urgency,HIGH,HIGH,True
+M02,sentiment,NEGATIVE,NEGATIVE,True
+M02,followup_required,Y,Y,True
+M02,recommended_team,Accessibility / Facilities Team,Accessibility / Facilities Team,True
+M03,issue_category,SUPPLIER_COMPLIANCE,SUPPLIER_COMPLIANCE,True
+M03,urgency,HIGH,HIGH,True
+M03,sentiment,NEGATIVE,NEGATIVE,True
+M03,followup_required,Y,Y,True
+M03,recommended_team,Compliance / Procurement Team,Compliance / Procurement Team,True

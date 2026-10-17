@@ -1,0 +1,4 @@
+Message ID,V1 Sensitivity,V2 Sensitivity,V1 Valid,V2 Valid
+M01,Low,LOW,False,True
+M02,Low,MEDIUM,False,True
+M03,Medium due to unverified allegations.,MEDIUM,False,True

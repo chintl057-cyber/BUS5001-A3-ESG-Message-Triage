@@ -1,0 +1,6 @@
+Message ID,issue_category,urgency,sentiment,followup_required,recommended_team
+M01,ENERGY_WASTE,MEDIUM,NEUTRAL,Y,Facilities / Energy Management
+M02,ACCESSIBILITY,HIGH,NEGATIVE,Y,Accessibility / Facilities Team
+M03,SUPPLIER_COMPLIANCE,HIGH,NEGATIVE,Y,Compliance / Procurement Team
+M04,ACCESSIBILITY,HIGH,NEGATIVE,Y,Accessibility / Facilities Team
+M05,OTHER,LOW,NEUTRAL,Y,Human Review

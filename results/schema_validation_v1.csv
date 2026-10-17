@@ -1,0 +1,4 @@
+Message ID,Schema Status,Validation Issues
+M01,FAIL,data_sensitivity_risk: invalid value 'Low'
+M02,FAIL,data_sensitivity_risk: invalid value 'Low'
+M03,FAIL,data_sensitivity_risk: invalid value 'Medium due to unverified allegations.'

@@ -1,0 +1,22 @@
+{
+  "M04": {
+    "issue_category": "ACCESSIBILITY",
+    "urgency": "LOW",
+    "sentiment": "POSITIVE",
+    "followup_required": "N",
+    "recommended_team": "Accessibility / Facilities Team",
+    "escalation_reason": "",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "Wheelchair-accessible entrance was temporarily blocked but is now cleared and accessible."
+  },
+  "M05": {
+    "issue_category": "ENERGY_WASTE",
+    "urgency": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "followup_required": "Y",
+    "recommended_team": "Facilities / Energy Management",
+    "escalation_reason": "Repeated operational issue requiring investigation.",
+    "data_sensitivity_risk": "Low",
+    "brief_summary": "Lights on Level 4 are left on during weekends without use."
+  }
+}

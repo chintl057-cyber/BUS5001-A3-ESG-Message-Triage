@@ -1,0 +1,52 @@
+{
+  "M01": {
+    "issue_category": "ENERGY_WASTE",
+    "urgency": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "followup_required": "Y",
+    "recommended_team": "Facilities / Energy Management",
+    "escalation_reason": "Repeated operational issue requiring investigation.",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "Air conditioning running overnight in empty office on Level 3 for a week."
+  },
+  "M02": {
+    "issue_category": "ACCESSIBILITY",
+    "urgency": "HIGH",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Accessibility / Facilities Team",
+    "escalation_reason": "Significant accessibility barrier and potential safety hazard.",
+    "data_sensitivity_risk": "MEDIUM",
+    "brief_summary": "Wheelchair-accessible entrance to Building B blocked by construction materials, preventing safe access."
+  },
+  "M03": {
+    "issue_category": "SUPPLIER_COMPLIANCE",
+    "urgency": "MEDIUM",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Compliance / Procurement Team",
+    "escalation_reason": "Potential breach of sustainability policy by supplier requires investigation.",
+    "data_sensitivity_risk": "MEDIUM",
+    "brief_summary": "Allegation of improper hazardous waste disposal by a supplier."
+  },
+  "M04": {
+    "issue_category": "ACCESSIBILITY",
+    "urgency": "LOW",
+    "sentiment": "NEUTRAL",
+    "followup_required": "N",
+    "recommended_team": "Accessibility / Facilities Team",
+    "escalation_reason": "No escalation required",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "Wheelchair-accessible entrance was temporarily blocked but is now cleared and accessible."
+  },
+  "M05": {
+    "issue_category": "ENERGY_WASTE",
+    "urgency": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "followup_required": "Y",
+    "recommended_team": "Facilities / Energy Management",
+    "escalation_reason": "Repeated operational issue requiring investigation.",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "Lights on Level 4 are left on during weekends without use."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "M01": {
+    "issue_category": "ENERGY_WASTE",
+    "urgency": "MEDIUM",
+    "sentiment": "NEUTRAL",
+    "followup_required": "Y",
+    "recommended_team": "Facilities / Energy Management",
+    "escalation_reason": "Repeated operational issue requiring investigation.",
+    "data_sensitivity_risk": "Low",
+    "brief_summary": "Air conditioning running overnight in empty office on Level 3 for a week."
+  },
+  "M02": {
+    "issue_category": "ACCESSIBILITY",
+    "urgency": "HIGH",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Accessibility / Facilities Team",
+    "escalation_reason": "Significant accessibility barrier preventing safe access.",
+    "data_sensitivity_risk": "Low",
+    "brief_summary": "Wheelchair-accessible entrance to Building B blocked by construction materials, hindering safe access."
+  },
+  "M03": {
+    "issue_category": "SUPPLIER_COMPLIANCE",
+    "urgency": "HIGH",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Compliance / Procurement Team",
+    "escalation_reason": "Potential serious compliance concern regarding hazardous waste disposal.",
+    "data_sensitivity_risk": "Medium due to unverified allegations.",
+    "brief_summary": "Allegation of improper hazardous waste disposal by a supplier, potentially breaching sustainability policy."
+  }
+}

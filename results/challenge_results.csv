@@ -1,0 +1,3 @@
+Message ID,Test Type,GPT-4o Category,Baseline Category,GPT-4o Urgency,Baseline Urgency,GPT-4o Follow-up,Baseline Follow-up
+M04,Negation / Resolved Incident,ACCESSIBILITY,ACCESSIBILITY,LOW,HIGH,N,Y
+M05,Alternative Wording,ENERGY_WASTE,OTHER,MEDIUM,LOW,Y,Y
